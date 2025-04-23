@@ -1,6 +1,7 @@
 Virtual Quiz Game - Vi_Quiz
 
 I crafted it during the 3rd semester of B.Tech using Python, OpenCV, Mediapipe, and mysql.connector. Get ready for an engaging and educational experience that transcends age barriers!
+This is a fun game
 
 Website Overview
 Home Page
